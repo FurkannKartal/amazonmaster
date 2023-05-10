@@ -6,13 +6,7 @@ tags:Key-1301_TagNamsdadsadsasadsadsasadsad
 
 ## Add Product to Basket
 tags:Key1302
-* "2" saniye bekle
-* Go to "https://www.amazon.com.tr/" address
-* Search product and add to basket
-* go basket
-* proceed to retail checkout
-* check login page
-v
+
 ## Delete product
 tags:Key-1304
 * Go to "https://www.amazon.com.tr/" address
