@@ -4,11 +4,8 @@ tags:Key-1301_TagNamsdadsadsasadsadsasadsad
 * Go to "https://www.eamazon.com.tr/" addressmmm
 //Ali
 
-## Add Product to Basket
-tags:Key1302
 
-## Delete product
-tags:Key-1304
+
 
 
 ## Chrome Versiın Check
