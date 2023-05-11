@@ -9,11 +9,7 @@ tags:Key1302
 
 ## Delete product
 tags:Key-1304
-* Go to "https://www.amazon.com.tr/" address
-//* Search product and add to basket
-//* go basket
-//* delete product and check
-//* check login page
+
 
 ## Chrome Versiın Check
 tags:Key-1305
